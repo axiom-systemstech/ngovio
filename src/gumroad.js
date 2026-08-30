@@ -5,7 +5,7 @@
 // No inventes URLs: copia las URLs directamente desde Gumroad.
 // ============================================================
 export const GUMROAD = {
-  "01": "https://YOUR-GUMROAD-DOMAIN/PRODUCT-01",
+  "01": "https://manuelaxiomsystems.gumroad.com/l/ckxslt",
   "02": "https://YOUR-GUMROAD-DOMAIN/PRODUCT-02",
   "03": "https://YOUR-GUMROAD-DOMAIN/PRODUCT-03",
   "04": "https://YOUR-GUMROAD-DOMAIN/PRODUCT-04",
